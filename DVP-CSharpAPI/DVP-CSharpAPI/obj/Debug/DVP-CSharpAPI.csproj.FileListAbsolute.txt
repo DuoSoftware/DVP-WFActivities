@@ -1,0 +1,12 @@
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\DVP-CSharpAPI.exe.config
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\DVP-CSharpAPI.exe
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\DVP-CSharpAPI.pdb
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\obj\Debug\DVP-CSharpAPI.csprojResolveAssemblyReference.cache
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\obj\Debug\DVP-CSharpAPI.exe
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\obj\Debug\DVP-CSharpAPI.pdb
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\DVP-Helper.dll
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\DVP-Helper.pdb
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\DVP\DVP-WFActivities\DVP-CSharpAPI\DVP-CSharpAPI\bin\Debug\System.Net.Http.Formatting.xml
