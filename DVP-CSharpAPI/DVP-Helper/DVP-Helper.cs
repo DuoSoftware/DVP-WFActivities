@@ -89,6 +89,13 @@ namespace DVP_Helper
             get;
             set;
         }
+
+        public int maxdigits
+        {
+            get;
+            set;
+        }
+
         public override string ToString()
         {
             return JsonConvert.SerializeObject(this);
@@ -175,6 +182,13 @@ namespace DVP_Helper
             get;
             set;
         }
+
+        public int maxdigits
+        {
+            get;
+            set;
+        }
+
         public override string ToString()
         {
             return JsonConvert.SerializeObject(this);
@@ -269,6 +283,12 @@ namespace DVP_Helper
             set;
         }
 
+        public int maxdigits
+        {
+            get;
+            set;
+        }
+
         public override string ToString()
         {
             return JsonConvert.SerializeObject(this);
@@ -353,6 +373,12 @@ namespace DVP_Helper
         }
 
         public int digits
+        {
+            get;
+            set;
+        }
+
+        public int maxdigits
         {
             get;
             set;
@@ -451,6 +477,12 @@ namespace DVP_Helper
         }
 
         public int digits
+        {
+            get;
+            set;
+        }
+
+        public int maxdigits
         {
             get;
             set;
@@ -634,6 +666,12 @@ namespace DVP_Helper
              set;
          }
 
+         public int maxdigits
+         {
+             get;
+             set;
+         }
+
          public override string ToString()
          {
              return JsonConvert.SerializeObject(this);
@@ -676,6 +714,8 @@ namespace DVP_Helper
              get;
              set;
          }
+
+        
 
          public override string ToString()
          {
