@@ -209,6 +209,13 @@ namespace DVP_Helper
             }
         }
 
+        public string posturl
+        {
+            get;
+            set;
+        }
+
+
         public string file
         {
             get;
@@ -309,12 +316,7 @@ namespace DVP_Helper
             }
         }
 
-        public string file
-        {
-            get;
-            set;
-        }
-
+      
         public string nexturl
         {
             get;
@@ -859,6 +861,12 @@ namespace DVP_Helper
          }
 
          public string nexturl
+         {
+             get;
+             set;
+         }
+
+         public string posturl
          {
              get;
              set;
